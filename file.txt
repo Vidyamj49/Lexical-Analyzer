@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main ()
+{
+  int a , b
+  float x;
+  int sum = a + b ;
+int c=10a;
+  printf ( " %d ", sum ) ;
+  return 0 ;
+}
+}
+}
+{
